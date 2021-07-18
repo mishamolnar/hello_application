@@ -1,4 +1,8 @@
 public class hello_app {
-    System.out.println("Hello, mates")
+    public static void print() {
+
+
+        System.out.println("Hello, mates")
+    }
 
 }
