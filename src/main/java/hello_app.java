@@ -3,7 +3,7 @@ public class hello_app {
 
 
         System.out.println("Hello, mates");
-        System.out.println("Hello, mates");
+
     }
 
 }
